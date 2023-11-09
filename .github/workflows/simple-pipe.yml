@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
     inputs:
       myValues:
-      description: 'Input Values'
+        description: 'Input Values'
 
 permissions:
   contents: read
